@@ -1,0 +1,24 @@
+{
+  "name": "desafio-docker-nginx-nodejs",
+  "version": "1.0.0",
+  "description": "Desafio docker com nginx e nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianodts/desafio-docker-nginx-nodejs.git"
+  },
+  "author": "Adriano Dantas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianodts/desafio-docker-nginx-nodejs/issues"
+  },
+  "homepage": "https://github.com/adrianodts/desafio-docker-nginx-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "pug": "^3.0.0"
+  }
+}
